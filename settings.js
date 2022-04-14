@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['6281290867594','6281290867594','6281290867594']
+global.premium = ['6281290867594']
+global.ownernomer = '6281290867594'
+global.ownername = 'Tristan YT'
+global.botname = 'IzumiBot'
+global.footer = 'Tristan'
+global.ig = 'https://instagram.com/tristangameryt4'
+global.email = 'tristanaditya13@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.sc = '-'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Chika-Md'
+global.packname ='IzumiBot'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -47,7 +47,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 30,
     monayawal: 1000
 }
    global.rpg = {
